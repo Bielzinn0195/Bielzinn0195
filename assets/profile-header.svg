@@ -1,0 +1,39 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="230" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#020617"/>
+    <stop offset="0.55" stop-color="#07152F"/>
+    <stop offset="1" stop-color="#160A2B"/>
+  </linearGradient>
+  <linearGradient id="line" x1="120" y1="0" x2="1080" y2="230" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0EA5E9"/>
+    <stop offset="0.52" stop-color="#2563EB"/>
+    <stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+  <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(880 70) rotate(135) scale(270 240)">
+    <stop stop-color="#2563EB" stop-opacity=".35"/>
+    <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1050 170) rotate(210) scale(240 180)">
+    <stop stop-color="#8B5CF6" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="228" rx="16" fill="url(#bg)" stroke="#123C76"/>
+<rect width="1200" height="230" rx="16" fill="url(#glow1)"/>
+<rect width="1200" height="230" rx="16" fill="url(#glow2)"/>
+<path d="M0 190C150 125 250 190 380 140C510 90 600 165 720 120C850 72 950 125 1200 55" stroke="url(#line)" stroke-opacity=".25" stroke-width="2"/>
+<path d="M0 205C170 150 270 205 410 155C550 105 650 180 780 135C910 90 1010 140 1200 72" stroke="#38BDF8" stroke-opacity=".12" stroke-width="1"/>
+<g opacity=".18" stroke="#60A5FA">
+  <path d="M735 35L930 35"/>
+  <path d="M735 55L1010 55"/>
+  <path d="M735 75L955 75"/>
+  <path d="M735 95L1035 95"/>
+</g>
+<text x="70" y="92" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="5">GABRIEL</text>
+<text x="70" y="137" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800">DESENVOLVIMENTO WEB</text>
+<text x="72" y="170" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="16">Projetos, interfaces e experiências digitais.</text>
+<text x="1015" y="102" fill="#60A5FA" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">BUILD</text>
+<text x="1015" y="127" fill="#A78BFA" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">CREATE</text>
+<text x="1015" y="152" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">EVOLVE</text>
+</svg>
